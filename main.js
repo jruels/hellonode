@@ -1,5 +1,4 @@
 // load the http module
-// test jenkins again
 var http = require('http');
 
 // configure our HTTP server
